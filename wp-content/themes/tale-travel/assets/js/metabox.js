@@ -1,0 +1,1 @@
+jQuery(document).ready(function(){jQuery("#tale-travel-ui-tabs").tabs()});

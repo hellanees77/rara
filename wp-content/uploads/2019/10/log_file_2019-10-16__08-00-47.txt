@@ -1,0 +1,87 @@
+
+---Downloaded files---
+The import files for: Tale Travel Demo were successfully downloaded!
+Initial max execution time = 180
+Files info:
+Site URL = http://localhost/wp/rara
+Data file = E:\Ampps\www\wp\rara/wp-content/uploads/2019/10/demo-content-import-file_2019-10-16__08-00-47.xml
+Widget file = E:\Ampps\www\wp\rara/wp-content/uploads/2019/10/demo-widgets-import-file_2019-10-16__08-00-47.json
+Customizer file = E:\Ampps\www\wp\rara/wp-content/uploads/2019/10/demo-customizer-import-file_2019-10-16__08-00-47.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+WP Travel : Archive Sidebar : 
+
+WP Travel Filters Widget - Filter Search - Imported
+WP Travel Sales Widget - Offer Trips - Imported
+WP Travel Featured Trip - Featured Trip - Imported
+
+Sidebar : 
+
+Search - No Title - Widget already exists
+Recent Posts - No Title - Widget already exists
+Recent Comments - No Title - Widget already exists
+Archives - No Title - Widget already exists
+Categories - No Title - Widget already exists
+Meta - No Title - Widget already exists
+
+Footer Widget 1 : 
+
+Navigation Menu - Destinations - Imported
+
+Footer Widget 2 : 
+
+Navigation Menu - Activites - Imported
+
+Footer Widget 3 : 
+
+Navigation Menu - Trip Types - Imported
+
+Footer Widget 4 : 
+
+Text - Promotion - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+
